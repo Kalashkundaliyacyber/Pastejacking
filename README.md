@@ -1,7 +1,7 @@
-You can visit the live site [here](https://kalashkundaliyacyber.github.io/Pastejacking/).
 # Pastejacking
 
 **Pastejacking** is a cybersecurity threat that occurs when malicious actors manipulate the content that gets pasted into a user's clipboard. When a user copies content from a website, attackers can secretly replace the copied text with their own malicious commands or code. The user, unaware of the substitution, pastes the content into a terminal or another sensitive environment, potentially leading to severe consequences.
+You can visit the live site [here](https://kalashkundaliyacyber.github.io/Pastejacking/).
 
 ## How Pastejacking Works
 1. **Manipulation of Clipboard Content**: Attackers use JavaScript or other scripting languages to alter the content in a user's clipboard when they copy text from a compromised web page.
